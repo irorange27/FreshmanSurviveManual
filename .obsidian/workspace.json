@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "37b5ff112a32d481",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb0fb9f844054180",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eedc2dde6235e477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "选课.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1038d5324e062416",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0fd03ef4e4b23ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5411d95424354cc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "876a47f5488e91a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2b1be57ab356fff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50beb5c7389720eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f66c685a2e31bc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff7aa8c9b6cd2af9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "选课.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bc8747ffbd7764c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "选课.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24c20c74a3d7381b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "feb01bbc0bfabf7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "选课.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "eedc2dde6235e477",
+  "lastOpenFiles": [
+    "稳定与否.md",
+    "选课.md",
+    "总有更值得做的事情.md",
+    "选择的周期.md",
+    "沉重的学习.md",
+    "保持对提升的渴望.md",
+    "欢迎来到上海大学.md",
+    "总有更值得做的事情.pdf"
+  ]
+}
